@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A menos que você perdoe o seu próximo, estará lendo sua própria sentença de morte ao orar o Pai Nosso.",
+      "autoria": "Charles Spurgeon",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Estude a Palavra para que sua fé não se apoie na sabedoria de homens, mas no poder de Deus!",
+      "autoria": "Charles Spurgeon",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 4,
+      "conteudo": "Angular é melhor que React, mas muitos não estão prontos para discutir sobre isso...",
+      "autoria": "Fala Sai Correndo",
+      "modelo": "modelo3"
+    }
+  ]
+}
