@@ -30,7 +30,7 @@ Responsavél pela comunicação e ações entre front e back
 "O Objetivo de um serviço é organizar e compartilhar regras de negócios, dados e métodos para diferentes componentes de uma aplicação por meio da injeção de dependência".
 - ng g s components/pensamentos/pensamento.service
 
-## Injeção de depêndencias
+## Injeção de dependências
 Uma forma de centralizar toda a ação de um serviço que teria um longo caminho a ser percorrido menos burocrático.
 Imagine um pedido, você precisa, comprar, entrar em uma fila e esperar a entrega do seu pedido, imagina um mediador que possa fazer toda essa ação por debaixo dos panos, onde você simplesmente solicita o serviço e ele chega até você. Seria isso!!!
 [Artigo sobre Injeção de dependências](https://www.alura.com.br/artigos/services-injecao-dependencia-angular-o-que-sao-como-funcionam?_gl=1*scusct*_ga*MjA5MjUwOTAwMi4xNjc1NjI1MDY1*_ga_1EPWSW3PCS*MTY5NDI2MjY0Ny42My4xLjE2OTQyNjUzNjUuMC4wLjA.*_fplc*ZXdqVmU0NiUyQjlIOEFBWHh2WE40RDAlMkZYcCUyRllSTlVJaDdRMUF4WTBMSFRlTWRuS1hjVml0b29BZlM1eEpaUjNHdHhFVkJBN0dMUElLREdnNXYlMkJvcUdkbSUyQkhEdGJqJTJGUUpnc1VuR0slMkJnVSUyRkRBQkVlVDQxJTJGck5iSW9IVk53R0ZRJTNEJTNE#:~:text=Sim%2C%20%C3%A9%20s%C3%B3%20isso%20mesmo,declarado%20como%20atributo%20dessa%20classe)
