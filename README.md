@@ -44,6 +44,12 @@ Foi criando um backend para testes, para criação e execução foram seguidos o
 - crie o arquivo db.json e configure o package.json com start
 - Rode a aplicação com `npm start`
 
+## sobre Requisições HTTP
+- O HttpClient retorna Observable das chamadas de métodos HTTP, o que facilita na implementação de regras em caso de sucesso, erro e conclusão da requisição.
+HttpClient é uma classe que possui envia requisições HTTP e permite interagir com os suas diferentes possibilidades de resultados.
+
+- O GET precisa receber a URL como parâmetro para trazer os dados para a aplicação.
+
 ---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.

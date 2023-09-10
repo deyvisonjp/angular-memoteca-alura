@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "A menos que você perdoe o seu próximo, estará lendo sua própria sentença de morte ao orar o Pai Nosso.",
       "autoria": "Charles Spurgeon",
@@ -23,6 +17,12 @@
       "conteudo": "Angular é melhor que React, mas muitos não estão prontos para discutir sobre isso...",
       "autoria": "Fala Sai Correndo",
       "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "Nossa aplicação é top",
+      "autoria": "Deyvison",
+      "modelo": "modelo1"
     }
   ]
 }
